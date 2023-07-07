@@ -15,4 +15,5 @@ The project was developed with a storyboard and using MVC Design Pattern
 
 ### 📸 Screenshots of the application
  
-![BMI screenshots](https://github.com/caiiocasttro/BMI-Calculator/assets/104564732/76a935de-f09b-4655-8ef7-0a021e111daf)
+![BMI screenshots](https://github.com/caiiocasttro/BMI-Calculator/assets/104564732/1149f077-5d28-4cf4-bd73-8ca8af6ff22d)
+
